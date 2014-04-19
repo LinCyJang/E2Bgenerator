@@ -1,0 +1,512 @@
+  <ichicsr lang="en">
+
+      <ichicsrmessageheader>
+
+        <messagetype>ichicsr</messagetype>
+
+        <messageformatversion>2.1</messageformatversion>
+        
+        <messageformatrelease>2.0</messageformatrelease>
+        
+        <messagenumb>236908_TRN</messagenumb>
+        
+        <messagesenderidentifier></messagesenderidentifier>
+        
+        <messagereceiveridentifier></messagereceiveridentifier>
+        
+        <messagedateformat>204</messagedateformat>
+        
+        <messagedate>20140208133736</messagedate>
+
+      </ichicsrmessageheader>
+
+      <safetyreport>
+
+       <safetyreportversion>1</safetyreportversion>
+
+       <safetyreportid></safetyreportid>
+
+       <primarysourcecountry>US</primarysourcecountry>
+
+       <occurcountry>US</occurcountry>
+
+       <transmissiondateformat>102</transmissiondateformat>
+
+       <transmissiondate>20140212</transmissiondate>
+
+       <reporttype>2</reporttype>
+
+       <serious>1</serious>
+
+       <seriousnessdeath>2</seriousnessdeath>
+
+       <seriousnesslifethreatening>2</seriousnesslifethreatening>
+
+       <seriousnesshospitalization>1</seriousnesshospitalization>
+
+       <seriousnessdisabling>2</seriousnessdisabling>
+
+       <seriousnesscongenitalanomali>2</seriousnesscongenitalanomali>
+
+       <seriousnessother>1</seriousnessother>
+
+       <receivedateformat>102</receivedateformat>
+
+       <receivedate>20130804</receivedate>
+
+       <receiptdateformat>102</receiptdateformat>
+
+       <receiptdate>20130804</receiptdate>
+
+       <additionaldocument>2</additionaldocument>
+
+       <fulfillexpeditecriteria>1</fulfillexpeditecriteria>
+
+       <companynumb></companynumb>
+
+        <primarysource>
+
+         <reporterfamilyname></reporterfamilyname>
+
+         <reporterorganization></reporterorganization>
+
+         <reporterstreet></reporterstreet>
+
+         <reporterpostcode></reporterpostcode>
+
+         <reportercountry></reportercountry>
+
+         <qualification>3</qualification>
+
+         <studyname>2007-005837-13#COU-AA-301</studyname>
+
+         <sponsorstudynumb>COU-AA-301</sponsorstudynumb>
+
+         <observestudytype>1</observestudytype>
+
+        </primarysource>
+
+        <sender>
+
+         <sendertype>1</sendertype>
+
+         <senderorganization></senderorganization>
+
+         <senderdepartment></senderdepartment>
+
+         <sendergivename></sendergivename>
+
+         <senderfamilyname></senderfamilyname>
+
+         <senderstreetaddress></senderstreetaddress>
+
+         <sendercity></sendercity>
+
+         <senderstate></senderstate>
+
+         <senderpostcode></senderpostcode>
+
+         <sendercountrycode></sendercountrycode>
+
+         <sendertel>12345678</sendertel>
+
+         <sendertelcountrycode>1</sendertelcountrycode>
+
+         <senderfax>45678901</senderfax>
+
+         <senderfaxcountrycode>1</senderfaxcountrycode>
+
+        </sender>
+
+        <receiver>
+
+         <receivertype>2</receivertype>
+
+         <receiverorganization></receiverorganization>
+
+         <receivergivename></receivergivename>
+
+         <receiverfamilyname></receiverfamilyname>
+
+         <receivercountrycode></receivercountrycode>
+
+         <receiverfax>1919998796</receiverfax>
+
+         <receiveremailaddress>first.last@email.com</receiveremailaddress>
+
+        </receiver>
+
+        <patient>
+
+         <patientinvestigationnumb>001-002</patientinvestigationnumb>
+
+         <patientbirthdateformat>102</patientbirthdateformat>
+
+         <patientbirthdate>19490401</patientbirthdate>
+
+         <patientsex>1</patientsex>
+
+         <resultstestsprocedures>Chest x-ray: xyz</resultstestsprocedures>
+
+          <medicalhistoryepisode>
+
+           <patientepisodenamemeddraversion>15.1</patientepisodenamemeddraversion>
+
+           <patientepisodename>Hypertension</patientepisodename>
+
+           <patientmedicalstartdateformat>102</patientmedicalstartdateformat>
+
+           <patientmedicalstartdate>20010523</patientmedicalstartdate>
+
+           <patientmedicalcontinue>2</patientmedicalcontinue>
+
+           <patientmedicalenddateformat>102</patientmedicalenddateformat>
+
+           <patientmedicalenddate>20041229</patientmedicalenddate>
+
+          </medicalhistoryepisode>
+
+          <patientpastdrugtherapy>
+
+           <patientdrugname>PARACETAMOL</patientdrugname>
+
+           <patientdrugstartdateformat>102</patientdrugstartdateformat>
+
+           <patientdrugstartdate>20030829</patientdrugstartdate>
+
+           <patientindicationmeddraversion>15.1</patientindicationmeddraversion>
+
+           <patientdrugindication>Headache</patientdrugindication>
+
+           <patientdrgreactionmeddraversion>15.1</patientdrgreactionmeddraversion>
+
+           <patientdrugreaction>Rash</patientdrugreaction>
+
+          </patientpastdrugtherapy>
+
+          <reaction>
+
+           <primarysourcereaction>heart attack</primarysourcereaction>
+
+           <reactionmeddraversionllt>15.1</reactionmeddraversionllt>
+
+           <reactionmeddrallt>Heart attack</reactionmeddrallt>
+
+           <reactionmeddraversionpt>15.1</reactionmeddraversionpt>
+
+           <reactionmeddrapt>Myocardial infarction</reactionmeddrapt>
+
+           <reactionstartdateformat>102</reactionstartdateformat>
+
+           <reactionstartdate>20130803</reactionstartdate>
+
+           <reactionenddateformat>102</reactionenddateformat>
+
+           <reactionenddate>20130803</reactionenddate>
+
+           <reactionduration>1</reactionduration>
+
+           <reactiondurationunit>804</reactiondurationunit>
+
+           <reactionfirsttime>69</reactionfirsttime>
+
+           <reactionfirsttimeunit>804</reactionfirsttimeunit>
+
+           <reactionlasttime>65</reactionlasttime>
+
+           <reactionlasttimeunit>804</reactionlasttimeunit>
+
+           <reactionoutcome>1</reactionoutcome>
+
+          </reaction>
+
+          <reaction>
+
+           <primarysourcereaction>sepsis</primarysourcereaction>
+
+           <reactionmeddraversionllt>15.1</reactionmeddraversionllt>
+
+           <reactionmeddrallt>Sepsis</reactionmeddrallt>
+
+           <reactionmeddraversionpt>15.1</reactionmeddraversionpt>
+
+           <reactionmeddrapt>Sepsis</reactionmeddrapt>
+
+           <reactionstartdateformat>102</reactionstartdateformat>
+
+           <reactionstartdate>20130801</reactionstartdate>
+
+           <reactionfirsttime>67</reactionfirsttime>
+
+           <reactionfirsttimeunit>804</reactionfirsttimeunit>
+
+           <reactionlasttime>63</reactionlasttime>
+
+           <reactionlasttimeunit>804</reactionlasttimeunit>
+
+           <reactionoutcome>3</reactionoutcome>
+
+          </reaction>
+
+          <test>
+
+           <testdateformat>102</testdateformat>
+
+           <testdate>20010322</testdate>
+
+           <testname>10061576</testname>
+
+           <testresult>22</testresult>
+
+           <testunit>µg/l</testunit>
+
+           <lowtestrange>0</lowtestrange>
+
+           <hightestrange>10</hightestrange>
+
+           <moreinformation>1</moreinformation>
+
+          </test>
+
+          <test>
+
+           <testdateformat>102</testdateformat>
+
+           <testdate>20130323</testdate>
+
+           <testname>10061576</testname>
+
+           <testresult>26</testresult>
+
+           <testunit>µg/l</testunit>
+
+           <lowtestrange>0</lowtestrange>
+
+           <hightestrange>10</hightestrange>
+
+           <moreinformation>2</moreinformation>
+
+          </test>
+
+          <test>
+
+           <testdateformat>102</testdateformat>
+
+           <testdate>20010322</testdate>
+
+           <testname>10008498</testname>
+
+           <moreinformation>1</moreinformation>
+
+          </test>
+
+          <drug>
+
+           <drugcharacterization>1</drugcharacterization>
+
+           <medicinalproduct>ABIRATERONE ACETATE</medicinalproduct>
+
+           <obtaindrugcountry>US</obtaindrugcountry>
+
+           <drugauthorizationnumb>111,878</drugauthorizationnumb>
+
+           <drugauthorizationcountry>US</drugauthorizationcountry>
+
+           <drugstructuredosagenumb>10</drugstructuredosagenumb>
+
+           <drugstructuredosageunit>003</drugstructuredosageunit>
+
+           <drugseparatedosagenumb>1</drugseparatedosagenumb>
+
+           <drugintervaldosageunitnumb>1</drugintervaldosageunitnumb>
+
+           <drugintervaldosagedefinition>804</drugintervaldosagedefinition>
+
+           <drugcumulativedosagenumb>50</drugcumulativedosagenumb>
+
+           <drugcumulativedosageunit>003</drugcumulativedosageunit>
+
+           <drugdosagetext>10 mg, qd</drugdosagetext>
+
+           <drugdosageform>Tablet</drugdosageform>
+
+           <drugadministrationroute>048</drugadministrationroute>
+
+           <drugindicationmeddraversion>15.1</drugindicationmeddraversion>
+
+           <drugindication>10060862</drugindication>
+
+           <drugstartdateformat>102</drugstartdateformat>
+
+           <drugstartdate>20130527</drugstartdate>
+
+           <drugenddateformat>102</drugenddateformat>
+
+           <drugenddate>20130531</drugenddate>
+
+           <drugtreatmentduration>5</drugtreatmentduration>
+
+           <drugtreatmentdurationunit>804</drugtreatmentdurationunit>
+
+           <actiondrug>4</actiondrug>
+
+            <activesubstance>
+
+             <activesubstancename>ABIRATERONE ACETATE</activesubstancename>
+
+            </activesubstance>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Myocardial infarction</drugreactionasses>
+
+             <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+
+             <drugresult>Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Myocardial infarction</drugreactionasses>
+
+             <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+
+             <drugresult>Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Sepsis</drugreactionasses>
+
+             <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+
+             <drugresult>Not Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Sepsis</drugreactionasses>
+
+             <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+
+             <drugresult>Not Related</drugresult>
+
+            </drugreactionrelatedness>
+
+          </drug>
+
+          <drug>
+
+           <drugcharacterization>1</drugcharacterization>
+
+           <medicinalproduct>ABIRATERONE ACETATE</medicinalproduct>
+
+           <obtaindrugcountry>US</obtaindrugcountry>
+
+           <drugauthorizationnumb>111,878</drugauthorizationnumb>
+
+           <drugauthorizationcountry>US</drugauthorizationcountry>
+
+           <drugcumulativedosagenumb>50</drugcumulativedosagenumb>
+
+           <drugcumulativedosageunit>003</drugcumulativedosageunit>
+
+           <drugdosagetext>UNK</drugdosagetext>
+
+           <drugdosageform>Tablet</drugdosageform>
+
+           <actiondrug>4</actiondrug>
+
+            <activesubstance>
+
+             <activesubstancename>ABIRATERONE ACETATE</activesubstancename>
+
+            </activesubstance>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Myocardial infarction</drugreactionasses>
+
+             <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+
+             <drugresult>Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Myocardial infarction</drugreactionasses>
+
+             <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+
+             <drugresult>Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Sepsis</drugreactionasses>
+
+             <drugassessmentsource>PHARMACEUTICAL COMPANY</drugassessmentsource>
+
+             <drugresult>Not Related</drugresult>
+
+            </drugreactionrelatedness>
+
+            <drugreactionrelatedness>
+
+             <drugreactionassesmeddraversion>15.1</drugreactionassesmeddraversion>
+
+             <drugreactionasses>Sepsis</drugreactionasses>
+
+             <drugassessmentsource>PRIMARY SOURCE REPORTER</drugassessmentsource>
+
+             <drugresult>Not Related</drugresult>
+
+            </drugreactionrelatedness>
+
+          </drug>
+
+          <drug>
+
+           <drugcharacterization>2</drugcharacterization>
+
+           <medicinalproduct>PREDNISONE</medicinalproduct>
+
+           <drugrecurreadministration>3</drugrecurreadministration>
+
+            <activesubstance>
+
+             <activesubstancename>PREDNISONE</activesubstancename>
+
+            </activesubstance>
+
+          </drug>
+
+          <summary>
+
+           <narrativeincludeclinical>Sample Patient Narraive</narrativeincludeclinical>
+
+          </summary>
+
+        </patient>
+
+      </safetyreport>
+</ichicsr>
