@@ -1,0 +1,1 @@
+This folder contains all of the generated E2B files.  This file is here to make sure that the folder shows up when this repo is duplicated.  It can be safely deleted.
